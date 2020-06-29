@@ -3,3 +3,5 @@
 Wiki: https://github.com/RootAccessHackerspace/meta/wiki
 
 Issues: https://github.com/RootAccessHackerspace/meta/issues
+
+![Root Access | Floorplan](floorplan.png)
